@@ -6,3 +6,5 @@ For character movement, combat, and NPC interactions, the game utilizes the Inve
 Player progression, stats, inventory, currency, and shops are managed through Playfab, leveraging legacy integrations. Playfab CloudScript is employed for essential functionalities such as leveling up, spending skill points, equipping items, managing item loss upon death, and introducing random attributes to new items.
 
 ## Menu lobby / Gameplay videos
+
+## Screenshots
