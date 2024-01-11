@@ -8,7 +8,7 @@ Player progression, stats, inventory, currency, and shops are managed through Pl
 
 
 ## Gameplay videos
-https://github.com/PauliusRaila/Endless-Dark/assets/28274535/b545ced0-32c5-4197-b96f-c9c3eb57b565
+https://github.com/PauliusRaila/Endless-Dark/assets/28274535/2bfd59c4-65a6-4b76-b63e-e04125b6e517
 
 https://github.com/PauliusRaila/Endless-Dark/assets/28274535/7507b7ad-f074-479d-a419-35fd431f52a0
 
