@@ -3,17 +3,19 @@ This game concept blends RPG elements with an extraction and looting focus. In t
 
 For character movement, combat, and NPC interactions, the game utilizes the Invector 3rd person controller. The dungeons feature a random generation of levels with starting points, branching paths, and distinctive endpoints. Each room prefab has its own navigational mesh and lightmaps to enhance the immersive experience.
 
-Player progression, stats, inventory, currency, and shops are managed through Playfab, leveraging legacy integrations. Playfab CloudScript is employed for essential functionalities such as leveling up, spending skill points, equipping items, managing item loss upon death, and introducing random 
+Player progression, stats, inventory, currency, and shops are managed through Playfab, leveraging legacy integrations. Playfab CloudScript is employed for essential functionalities such as leveling up, spending skill points, equipping items, managing item loss upon death, and introducing random attributes to new items.
+
 
 
 ## Gameplay videos
 https://github.com/PauliusRaila/Endless-Dark/assets/28274535/b545ced0-32c5-4197-b96f-c9c3eb57b565
+
 https://github.com/PauliusRaila/Endless-Dark/assets/28274535/7507b7ad-f074-479d-a419-35fd431f52a0
+
 ## Screenshots
 
 
 
-attributes to new items.
 
 
 
