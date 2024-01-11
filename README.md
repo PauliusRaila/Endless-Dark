@@ -4,6 +4,7 @@ This game concept blends RPG elements with an extraction and looting focus. In t
 For character movement, combat, and NPC interactions, the game utilizes the Invector 3rd person controller. The dungeons feature a random generation of levels with starting points, branching paths, and distinctive endpoints. 
 Each room prefab has its own navigational mesh and lightmaps baked.
 
+### Playfab
 Player progression, stats, inventory, currency, and shops are managed through Playfab, leveraging legacy integrations. Playfab CloudScript is employed for essential functionalities such as leveling up, spending skill points, equipping items, managing item loss upon death, and introducing random attributes to new items.
 
 
