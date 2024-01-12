@@ -1,6 +1,6 @@
 # Endless Dark - Mobile, Unity C# , Playfab
 
-One of my oldest projects, probably like 5 years old, collecting dust. Deffinetly not finished. Spent most of the time on menu lobby and playfab. Gameplay it's still very raw and naked, needs a game loop. Gameplay UI in dungeon are placeholders.
+One of my oldest projects, probably like 5 years old, collecting dust. Deffinetly not finished. Spent most of the time on menu lobby and playfab. Gameplay it's still very raw and naked, needs a game loop. Gameplay UI in dungeon are placeholders. All the store assets (3d models, animations, controllers, etc.) were exluded from git.
 This game concept blends RPG elements with an extraction and looting focus. In the lobby, players allocate skill points, shop for equipment like armor, weapons, and utilities (potions, teleports), and then venture into dynamically generated dungeons for randomized loot and challenges.
 
 
