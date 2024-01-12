@@ -7,7 +7,7 @@ Each room prefab has its own navigational mesh and lightmaps baked.
 ### Playfab
 Player progression, stats, inventory, currency, and shops are managed through Playfab, leveraging legacy integrations. Playfab CloudScript is employed for essential functionalities such as leveling up, spending skill points, equipping items, managing item loss upon death, and introducing random attributes to new items.
 
-One of my oldest projects, probably like 5 years old, collecting dust.
+One of my oldest projects, probably like 5 years old, collecting dust. Deffinetly not finished. Spent most of the time on menu lobby and playfab probably. Gameplay it's still very raw and naked, needs a game loop.
 
 ## Gameplay videos
 https://github.com/PauliusRaila/Endless-Dark/assets/28274535/2bfd59c4-65a6-4b76-b63e-e04125b6e517
