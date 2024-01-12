@@ -1,5 +1,9 @@
 # Endless Dark - Mobile, Unity C# , Playfab
+
+One of my oldest projects, probably like 5 years old, collecting dust. Deffinetly not finished. Spent most of the time on menu lobby and playfab. Gameplay it's still very raw and naked, needs a game loop. Gameplay UI in dungeon are placeholders.
 This game concept blends RPG elements with an extraction and looting focus. In the lobby, players allocate skill points, shop for equipment like armor, weapons, and utilities (potions, teleports), and then venture into dynamically generated dungeons for randomized loot and challenges.
+
+
 
 For character movement, combat, and NPC interactions, the game utilizes the Invector 3rd person controller. The dungeons feature a random generation of levels with starting points, branching paths, and distinctive endpoints. 
 Each room prefab has its own navigational mesh and lightmaps baked.
@@ -7,7 +11,7 @@ Each room prefab has its own navigational mesh and lightmaps baked.
 ### Playfab
 Player progression, stats, inventory, currency, and shops are managed through Playfab, leveraging legacy integrations. Playfab CloudScript is employed for essential functionalities such as leveling up, spending skill points, equipping items, managing item loss upon death, and introducing random attributes to new items.
 
-One of my oldest projects, probably like 5 years old, collecting dust. Deffinetly not finished. Spent most of the time on menu lobby and playfab. Gameplay it's still very raw and naked, needs a game loop. Gameplay UI in dungeon are placeholders.
+
 
 ## Gameplay videos
 https://github.com/PauliusRaila/Endless-Dark/assets/28274535/2bfd59c4-65a6-4b76-b63e-e04125b6e517
