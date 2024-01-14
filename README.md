@@ -7,7 +7,7 @@ For character movement, combat, and NPC interactions, the game utilizes the Inve
 Each room prefab has its own navigational mesh and lightmaps baked.
 
 ### Playfab
-Player progression, stats, inventory, currency, and shops are managed through Playfab, leveraging legacy integrations. Playfab CloudScript is employed for essential functionalities such as leveling up, spending skill points, equipping items, managing item loss upon death, and introducing random attributes to new items.
+Player progression, stats, inventory, currency, and shops are managed through Playfab (legacy). Playfab CloudScript is used for essential functionalities such as leveling up, spending skill points, equipping items, managing item loss upon death, and introducing random attributes to new items.
 
 
 
